@@ -1,0 +1,42 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin:0;
+    color: blue;
+    background-color: black;
+}
+
+.heading2{
+    float: none;
+    font-size: 22px;
+    color: black;
+    background-color: white;
+    box-shadow: 10px 10px 20px orange;
+    border-radius: 15px;
+}
+
+.heading3{
+    font-size: 17px;
+}
+
+.object{
+    font-size: 15px;
+    box-shadow: 10px 10px 13px lightgreen;
+}
+
+.footer{
+    position:fixed;
+    width:100%;
+    text-align: center;
+    bottom:0;
+    font-size: 23px;
+    line-height: 3;
+    background-color: thistle;
+}
+
+canvas{
+    border-color: cadetblue;
+    border-style: dotted;
+    border-radius: 12;
+    margin-top: 320px;
+}
